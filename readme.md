@@ -15,8 +15,9 @@ This project analyzes sales data using Python and Excel to uncover trends, perfo
 
 ##  How to Run
 1. Install dependencies using:
-2. Open `sales_analysis.ipynb` in Jupyter Notebook
-3. Run all cells to view the analysis and visualizations
+2. pip install -r requirements.txt
+3. Open `sales_analysis.ipynb` in Jupyter Notebook
+4. Run all cells to view the analysis and visualizations
 
 ##  Key Insights
 - The North region generated the highest revenue
