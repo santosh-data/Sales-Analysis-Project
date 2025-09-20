@@ -14,10 +14,9 @@ This project analyzes sales data using Python and Excel to uncover trends, perfo
 - `sale_data.xlsx`: Contains sample sales transactions with columns for date, region, product, units sold, unit price, and revenue.
 
 ##  How to Run
-1. Install dependencies using:
-2. pip install -r requirements.txt
-3. Open `sales_analysis.ipynb` in Jupyter Notebook
-4. Run all cells to view the analysis and visualizations
+1. Install dependencies using: !pip install -r requirements.txt
+2. Open `sales_analysis.ipynb` in Jupyter Notebook
+3. Run all cells to view the analysis and visualizations
 
 ##  Key Insights
 - The North region generated the highest revenue
